@@ -1,8 +1,3 @@
-Below is an example of a visually appealing and informative GitHub README file for your project:
-
----
-
-```markdown
 # Typing Practice Program
 
 A simple Python-based typing practice program built with Tkinter that helps you improve your typing skills. Choose between using an English dictionary (loaded from a file) or your own custom words, and challenge yourself with timed rounds of 20 random words!
@@ -33,7 +28,13 @@ A simple Python-based typing practice program built with Tkinter that helps you 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/typing-practice.git
+   git clone https://github.com/PeterWoods0802/typingpracticepython.git
+   cd typing-practice
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/PeterWoods0802/typingpracticepython.git
    cd typing-practice
    ```
 
